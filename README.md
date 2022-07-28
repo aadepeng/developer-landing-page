@@ -1,7 +1,6 @@
 # Developer Landing Page
 
-3
->Live Link : [Developer Landing Page](https://google.com)
+>Live Link : [Developer Landing Page](https://developer-page.netlify.app)
 
 >This site should look like this - 
 
